@@ -1,2 +1,2 @@
 Welcome to Git/Github Workshop!
-Version 1
+User2 updated the content!
